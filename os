@@ -1,5 +1,5 @@
-Bill Gates
-💾Folders 9     💾Files 5
+Bill 
+💾Folders     💾Files 
 
 📁 .check       📁 .desing     
 📁 .logs        📁 .settings
