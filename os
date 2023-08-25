@@ -1,4 +1,4 @@
-echo "
+Bill Gates
 💾Folders 9     💾Files 5
 
 📁 .check       📁 .desing     
